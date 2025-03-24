@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Kumud Waykole</h1>
 <h3 align="center">🚀 A Passionate Computer Engineer | Full Stack Developer | Tech Enthusiast</h3>
 
----
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KumudWaykole&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KumudWaykole&theme=dracula" height="180" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumudWaykole&layout=compact&theme=dracula" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ### 🚀 Technologies & Tools
 
@@ -50,3 +51,4 @@
 - 📚 Always eager to learn new technologies and enhance my skills.
 
 ---
+
