@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://lottiefiles.com/free-animation/programming-animation-AMQka4K3Z9)"  />
 
 ### 🚀 Technologies & Tools
 
