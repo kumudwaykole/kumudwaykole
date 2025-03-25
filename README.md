@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2dhbGVsbWRqcHpqcXpyZW5pZHhqNW81Y2Izdmt0aHl0M3FyMXk5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.gif"  />
+
 
 ### 🚀 Technologies & Tools
 
