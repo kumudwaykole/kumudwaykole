@@ -24,6 +24,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00e5ff
       - name: strip progress bar rects from generated svgs
         run: |
+          sudo chown -R $(id -u):$(id -g) dist
           for f in dist/*.svg; do
             sed -i -E 's/<rect class="u u[0-9]+"[^\/]*\/>//g' "$f"
           done
